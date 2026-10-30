@@ -1,4 +1,5 @@
 #include <sqlite3.h>
+#include <sodium.h>
 #include <bits/stdc++.h>
 
 // ======================= Database layer =======================
